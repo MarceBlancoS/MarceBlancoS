@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**MarceBlancoS/MarceBlancoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MarceBlancoS/MarceBlancoS** is a ✨ _special_ ![giphy](https://user-images.githubusercontent.com/106177948/215263488-5ad2af3c-04f6-45bc-b3f1-377856a70ac1.gif)
+✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![espirales](https://user-images.githubusercontent.com/106177948/215263497-7bb709a5-a04d-4f90-922d-10743a161b2e.gif)
 
 Here are some ideas to get you started:
 
