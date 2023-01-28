@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vtm4qejJIl1ERPIrbA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/knife-crab-pikaole-vtm4qejJIl1ERPIrbA">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/106177948/215270228-c2f18473-14c2-41d7-b4e3-65332a06b057.gif)
